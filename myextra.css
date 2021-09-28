@@ -3,6 +3,10 @@
   font-size: 80%;
 }
 
+.smallest {
+  font-size: 60%
+}
+
 .big {
   font-size: 120%;
 }
